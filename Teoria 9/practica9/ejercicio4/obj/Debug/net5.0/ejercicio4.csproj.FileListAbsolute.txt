@@ -1,0 +1,16 @@
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\bin\Debug\net5.0\ejercicio4.exe
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\bin\Debug\net5.0\ejercicio4.deps.json
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\bin\Debug\net5.0\ejercicio4.runtimeconfig.json
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\bin\Debug\net5.0\ejercicio4.runtimeconfig.dev.json
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\bin\Debug\net5.0\ejercicio4.dll
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\bin\Debug\net5.0\ref\ejercicio4.dll
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\bin\Debug\net5.0\ejercicio4.pdb
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\obj\Debug\net5.0\ejercicio4.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\obj\Debug\net5.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\obj\Debug\net5.0\ejercicio4.AssemblyInfoInputs.cache
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\obj\Debug\net5.0\ejercicio4.AssemblyInfo.cs
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\obj\Debug\net5.0\ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\obj\Debug\net5.0\ejercicio4.dll
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\obj\Debug\net5.0\ref\ejercicio4.dll
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\obj\Debug\net5.0\ejercicio4.pdb
+C:\Users\Ignacio\Desktop\Seminario .Net\teoria9\practica9\ejercicio4\obj\Debug\net5.0\ejercicio4.genruntimeconfig.cache

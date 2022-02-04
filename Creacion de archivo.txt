@@ -1,0 +1,5 @@
+dotnet new console -o "nombre"
+
+cd "nombre carpeta"
+
+dotnet run (pa crear el archivo)
